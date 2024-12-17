@@ -1,0 +1,1 @@
+apktool.bat d .\universal.apk -o ./output
